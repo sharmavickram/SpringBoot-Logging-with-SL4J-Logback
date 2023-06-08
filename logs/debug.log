@@ -1,0 +1,128 @@
+2023-04-06 12:16:57 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Starting SpringBootLoggingWithSl4JLogbackApplication using Java 13.0.14 on WLL229F6 with PID 29068 (D:\data\spring-workbook\SpringBoot-Logging-with-SL4J-Logback\target\classes started by 107316 in D:\data\spring-workbook\SpringBoot-Logging-with-SL4J-Logback)
+2023-04-06 12:16:57 [restartedMain] DEBUG c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Running with Spring Boot v2.7.10, Spring v5.3.26
+2023-04-06 12:16:57 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                No active profile set, falling back to 1 default profile: "default"
+2023-04-06 12:16:59 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Started SpringBootLoggingWithSl4JLogbackApplication in 2.153 seconds (JVM running for 2.862)
+2023-04-06 12:17:29 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Starting SpringBootLoggingWithSl4JLogbackApplication using Java 1.8.0_202 on WLL229F6 with PID 11496 (D:\data\spring-workbook\SpringBoot-Logging-with-SL4J-Logback\target\classes started by 107316 in D:\data\spring-workbook\SpringBoot-Logging-with-SL4J-Logback)
+2023-04-06 12:17:29 [restartedMain] DEBUG c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Running with Spring Boot v2.7.10, Spring v5.3.26
+2023-04-06 12:17:29 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                No active profile set, falling back to 1 default profile: "default"
+2023-04-06 12:17:30 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Started SpringBootLoggingWithSl4JLogbackApplication in 1.852 seconds (JVM running for 2.396)
+2023-04-06 12:21:46 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Starting SpringBootLoggingWithSl4JLogbackApplication using Java 1.8.0_202 on WLL229F6 with PID 17740 (D:\data\spring-workbook\SpringBoot-Logging-with-SL4J-Logback\target\classes started by 107316 in D:\data\spring-workbook\SpringBoot-Logging-with-SL4J-Logback)
+2023-04-06 12:21:46 [restartedMain] DEBUG c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Running with Spring Boot v2.7.10, Spring v5.3.26
+2023-04-06 12:21:46 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                No active profile set, falling back to 1 default profile: "default"
+2023-04-06 12:21:48 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Started SpringBootLoggingWithSl4JLogbackApplication in 1.928 seconds (JVM running for 2.329)
+2023-04-06 12:23:14 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Starting SpringBootLoggingWithSl4JLogbackApplication using Java 1.8.0_202 on WLL229F6 with PID 18964 (D:\data\spring-workbook\SpringBoot-Logging-with-SL4J-Logback\target\classes started by 107316 in D:\data\spring-workbook\SpringBoot-Logging-with-SL4J-Logback)
+2023-04-06 12:23:14 [restartedMain] DEBUG c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Running with Spring Boot v2.7.10, Spring v5.3.26
+2023-04-06 12:23:14 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                No active profile set, falling back to 1 default profile: "default"
+2023-04-06 12:23:15 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Started SpringBootLoggingWithSl4JLogbackApplication in 1.697 seconds (JVM running for 2.083)
+2023-04-06 12:24:05 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Starting SpringBootLoggingWithSl4JLogbackApplication using Java 1.8.0_202 on WLL229F6 with PID 28840 (D:\data\spring-workbook\SpringBoot-Logging-with-SL4J-Logback\target\classes started by 107316 in D:\data\spring-workbook\SpringBoot-Logging-with-SL4J-Logback)
+2023-04-06 12:24:05 [restartedMain] DEBUG c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Running with Spring Boot v2.7.10, Spring v5.3.26
+2023-04-06 12:24:05 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                No active profile set, falling back to 1 default profile: "default"
+2023-04-06 12:24:06 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Started SpringBootLoggingWithSl4JLogbackApplication in 1.763 seconds (JVM running for 2.157)
+2023-04-06 12:27:47 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Starting SpringBootLoggingWithSl4JLogbackApplication using Java 1.8.0_202 on WLL229F6 with PID 2776 (D:\data\spring-workbook\SpringBoot-Logging-with-SL4J-Logback\target\classes started by 107316 in D:\data\spring-workbook\SpringBoot-Logging-with-SL4J-Logback)
+2023-04-06 12:27:47 [restartedMain] DEBUG c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Running with Spring Boot v2.7.10, Spring v5.3.26
+2023-04-06 12:27:47 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                No active profile set, falling back to 1 default profile: "default"
+2023-04-06 12:27:48 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Started SpringBootLoggingWithSl4JLogbackApplication in 1.713 seconds (JVM running for 2.145)
+2023-04-06 12:29:52 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Starting SpringBootLoggingWithSl4JLogbackApplication using Java 1.8.0_202 on WLL229F6 with PID 31540 (D:\data\spring-workbook\SpringBoot-Logging-with-SL4J-Logback\target\classes started by 107316 in D:\data\spring-workbook\SpringBoot-Logging-with-SL4J-Logback)
+2023-04-06 12:29:52 [restartedMain] DEBUG c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Running with Spring Boot v2.7.10, Spring v5.3.26
+2023-04-06 12:29:52 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                No active profile set, falling back to 1 default profile: "default"
+2023-04-06 12:29:53 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Started SpringBootLoggingWithSl4JLogbackApplication in 1.72 seconds (JVM running for 2.121)
+2023-04-06 12:32:08 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Starting SpringBootLoggingWithSl4JLogbackApplication using Java 1.8.0_202 on WLL229F6 with PID 24040 (D:\data\spring-workbook\SpringBoot-Logging-with-SL4J-Logback\target\classes started by 107316 in D:\data\spring-workbook\SpringBoot-Logging-with-SL4J-Logback)
+2023-04-06 12:32:08 [restartedMain] DEBUG c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Running with Spring Boot v2.7.10, Spring v5.3.26
+2023-04-06 12:32:08 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                No active profile set, falling back to 1 default profile: "default"
+2023-04-06 12:32:09 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Started SpringBootLoggingWithSl4JLogbackApplication in 1.725 seconds (JVM running for 2.124)
+2023-04-06 12:35:54 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Starting SpringBootLoggingWithSl4JLogbackApplication using Java 1.8.0_202 on WLL229F6 with PID 14048 (D:\data\spring-workbook\SpringBoot-Logging-with-SL4J-Logback\target\classes started by 107316 in D:\data\spring-workbook\SpringBoot-Logging-with-SL4J-Logback)
+2023-04-06 12:35:54 [restartedMain] DEBUG c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Running with Spring Boot v2.7.10, Spring v5.3.26
+2023-04-06 12:35:54 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                No active profile set, falling back to 1 default profile: "default"
+2023-04-06 12:35:55 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Started SpringBootLoggingWithSl4JLogbackApplication in 1.757 seconds (JVM running for 2.142)
+2023-04-06 12:38:31 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Starting SpringBootLoggingWithSl4JLogbackApplication using Java 1.8.0_202 on WLL229F6 with PID 3688 (D:\data\spring-workbook\SpringBoot-Logging-with-SL4J-Logback\target\classes started by 107316 in D:\data\spring-workbook\SpringBoot-Logging-with-SL4J-Logback)
+2023-04-06 12:38:31 [restartedMain] DEBUG c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Running with Spring Boot v2.7.10, Spring v5.3.26
+2023-04-06 12:38:31 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                No active profile set, falling back to 1 default profile: "default"
+2023-04-06 12:38:33 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Started SpringBootLoggingWithSl4JLogbackApplication in 1.778 seconds (JVM running for 2.173)
+2023-04-06 12:38:41 [http-nio-8080-exec-1] DEBUG c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Request Vikram
+2023-04-06 12:38:41 [http-nio-8080-exec-1] DEBUG c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Response Hi Vikram Welcome to Java SpringBoot Logging demo
+2023-04-06 12:39:43 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Starting SpringBootLoggingWithSl4JLogbackApplication using Java 1.8.0_202 on WLL229F6 with PID 24396 (D:\data\spring-workbook\SpringBoot-Logging-with-SL4J-Logback\target\classes started by 107316 in D:\data\spring-workbook\SpringBoot-Logging-with-SL4J-Logback)
+2023-04-06 12:39:43 [restartedMain] DEBUG c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Running with Spring Boot v2.7.10, Spring v5.3.26
+2023-04-06 12:39:43 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                No active profile set, falling back to 1 default profile: "default"
+2023-04-06 12:39:44 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Started SpringBootLoggingWithSl4JLogbackApplication in 1.719 seconds (JVM running for 2.095)
+2023-04-06 12:39:57 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Starting SpringBootLoggingWithSl4JLogbackApplication using Java 1.8.0_202 on WLL229F6 with PID 30516 (D:\data\spring-workbook\SpringBoot-Logging-with-SL4J-Logback\target\classes started by 107316 in D:\data\spring-workbook\SpringBoot-Logging-with-SL4J-Logback)
+2023-04-06 12:39:57 [restartedMain] DEBUG c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Running with Spring Boot v2.7.10, Spring v5.3.26
+2023-04-06 12:39:57 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                No active profile set, falling back to 1 default profile: "default"
+2023-04-06 12:39:58 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Started SpringBootLoggingWithSl4JLogbackApplication in 1.696 seconds (JVM running for 2.083)
+2023-04-06 12:40:05 [http-nio-8080-exec-1] DEBUG c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Request Vikram
+2023-04-06 12:40:05 [http-nio-8080-exec-1] DEBUG c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Response Hi Vikram Welcome to Java SpringBoot Logging demo
+2023-04-06 12:40:06 [http-nio-8080-exec-2] DEBUG c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Request Vikram
+2023-04-06 12:40:06 [http-nio-8080-exec-2] DEBUG c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Response Hi Vikram Welcome to Java SpringBoot Logging demo
+2023-04-06 12:40:07 [http-nio-8080-exec-3] DEBUG c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Request Vikram
+2023-04-06 12:40:07 [http-nio-8080-exec-3] DEBUG c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Response Hi Vikram Welcome to Java SpringBoot Logging demo
+2023-04-06 12:40:07 [http-nio-8080-exec-4] DEBUG c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Request Vikram
+2023-04-06 12:40:07 [http-nio-8080-exec-4] DEBUG c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Response Hi Vikram Welcome to Java SpringBoot Logging demo
+2023-04-06 13:11:24 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Starting SpringBootLoggingWithSl4JLogbackApplication using Java 1.8.0_202 on WLL229F6 with PID 23488 (D:\data\spring-workbook\SpringBoot-Logging-with-SL4J-Logback\target\classes started by 107316 in D:\data\spring-workbook\SpringBoot-Logging-with-SL4J-Logback)
+2023-04-06 13:11:24 [restartedMain] DEBUG c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Running with Spring Boot v2.7.10, Spring v5.3.26
+2023-04-06 13:11:24 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                No active profile set, falling back to 1 default profile: "default"
+2023-04-06 13:11:26 [restartedMain] INFO  c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Started SpringBootLoggingWithSl4JLogbackApplication in 2.014 seconds (JVM running for 2.413)
+2023-04-06 13:11:35 [http-nio-8080-exec-2] DEBUG c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Request Vikram
+2023-04-06 13:11:35 [http-nio-8080-exec-2] DEBUG c.d.S.SpringBootLoggingWithSl4JLogbackApplication -
+                Response Hi Vikram Welcome to Java SpringBoot Logging demo
